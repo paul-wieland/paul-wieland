@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Paul Wieland
+# 👋 Hi, I'm Paul
 
 🚀 Backend & Cloud Engineer | Rust • TypeScript • AWS • Kubernetes  
 🛠️ Building scalable systems
