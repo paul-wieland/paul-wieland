@@ -6,18 +6,20 @@
 ---
 
 ## 🔧 Tech Stack
-- **Languages**: Rust, TypeScript, Java, Kotlin, Dart
-- **Cloud**: AWS, CDK, Terraform, GCP 
-- **Infra**: Docker, Kubernetes, GitHub Actions, Helm, Flux
+- **Backend**: Java, Kotlin, Spring Boot, Quarkus, NestJS TypeScript, Rust, JUnit, Test Containers
+- **Cloud**: AWS, GCP, Pub/Sub, Kafka 
+- **DevOps**: Docker, Kubernetes, GitHub Actions, Helm, Flux, CDK, Terraform, Ansible
 - **DB**: PostgreSQL, DynamoDB, MongoDB
-- **Frontend**: React, Flutter
-- **Others**: Event Driven Architecture, Hexagonal Architecture, Cloud Events
+- **Frontend**: React, Flutter, Angular
+- **Others**: Event Driven Architecture, Modular Monolith, Cloud Events, Grafana, MAVLink
+
 
 ---
 
 ## 🧩 Projects
 - **[Cloud Rider](https://github.com/paul-wieland/cloud-rider)** – A Rust-based ground control station for MAVLink drones.
 - **[Lambdalith NestJS](https://github.com/paul-wieland/lambdalith-nestjs)** –  A Lambdalith backend powered by NestJS and AWS CDK for rapid development and deployment.
+- **[aws-k8s-cluster](https://github.com/paul-wieland/aws-k8s-cluster)** – Kubernetes setup from scratch on AWS using EC2.
 - **[k8s-crash-reporter](https://github.com/paul-wieland/k8s-crash-reporter)** – Lightweight crash diagnostics tool for Kubernetes pods.
 - **[simple-pub-sub](https://github.com/paul-wieland/simple-pub-sub)** – A simple pub-sub service implemented in Rust
 
