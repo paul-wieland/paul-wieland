@@ -27,6 +27,7 @@
 
 ## ✍️ Articles
 
+- [Exploring the current landscape of AI chips](https://medium.com/@wieland.paul/exploring-the-current-landscape-of-ai-chips-ff30a22047ea)
 - [Let's build a Ground Control Station (GCS) in Rust & React](https://medium.com/@wieland.paul/lets-build-a-ground-control-station-gcs-in-rust-react-8905cca6b5e0)
 - [Why I think Rust is Awesome](https://medium.com/@wieland.paul/why-i-think-rust-is-awesome-1a5b040241e4)
 
