@@ -17,6 +17,7 @@
 ---
 
 ## 🧩 Projects
+- **[Khamly](https://apps.apple.com/de/app/khamly/id6749909955)** – A Flutter-based mobile vocabulary trainer that uses AWS services—including Lambda, S3, Polly, DynamoDB, and Textract (OCR)—to deliver intelligent word extraction, pronunciation, and cloud-synced learning experiences.
 - **[Cloud Rider](https://github.com/paul-wieland/cloud-rider)** – A Rust-based ground control station for MAVLink drones.
 - **[Lambdalith NestJS](https://github.com/paul-wieland/lambdalith-nestjs)** –  A Lambdalith backend powered by NestJS and AWS CDK for rapid development and deployment.
 - **[aws-k8s-cluster](https://github.com/paul-wieland/aws-k8s-cluster)** – Kubernetes setup from scratch on AWS using EC2.
